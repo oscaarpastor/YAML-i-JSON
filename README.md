@@ -43,7 +43,8 @@ JSON (JavaScript Object Notation) es un formato de intercambio de datos ligero y
   "edad": 18,
   "ciudad": "Alzira",
   "hobbies": ["musica", "fotos", "deporte"]
-} ```
+}
+```
 
 
 # Comparación entre JSON y YAML
