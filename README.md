@@ -57,3 +57,5 @@ JSON (JavaScript Object Notation) es un formato de intercambio de datos ligero y
 | Uso Común      | APIs web, transmisión de datos    | Archivos de configuración, datos en reposo|
 | Compatibilidad | Ampliamente compatible con lenguajes | Compatible, pero menos que JSON          |
 
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
