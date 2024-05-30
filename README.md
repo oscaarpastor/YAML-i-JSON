@@ -24,7 +24,8 @@ hobbies:
   - musica
   - fotos
   - deporte
-} ```
+}
+```
 
 ## JSON
 ### ¿Qué es JSON?
