@@ -1,5 +1,20 @@
 # YAML y JSON
 
+## Tabla de Contenidos
+- [Introducción](#introducción)
+- [YAML](#yaml)
+  - [¿Qué es YAML?](#qué-es-yaml)
+  - [Características Principales](#características-principales)
+  - [Ejemplo de YAML](#ejemplo-de-yaml)
+- [JSON](#json)
+  - [¿Qué es JSON?](#qué-es-json)
+  - [Características Principales](#características-principales-1)
+  - [Ejemplo de JSON](#ejemplo-de-json)
+- [Comparación entre JSON y YAML](#comparación-entre-json-y-yaml)
+- [Imagen de Ejemplo](#imagen-de-ejemplo)
+- [Notas y Consejos](#notas-y-consejos)
+- [Información Sacada de](#información-sacada-de)
+
 ## Introducción
 YAML y JSON son formatos para configurar archivos, enviar datos y guardar información estructurada. Ambos son legibles por humanos y máquinas, pero tienen diferentes características y usos específicos.
 
@@ -63,7 +78,23 @@ JSON (JavaScript Object Notation) es un formato de intercambio de datos ligero y
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+> [!NOTE]
+> Hola me llamo oscar y me gusta shreck.
+
+> [!TIP]
+> Hola me llamo oscar y me gusta shreck.
+
+> [!IMPORTANT]
+> Hola me llamo oscar y me gusta shreck.
+
+> [!WARNING]
+> Hola me llamo oscar y me gusta shreck.
+
+> [!CAUTION]
+> Hola me llamo oscar y me gusta shreck.
 
 
+# Informacion sacada de:
 
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
