@@ -72,11 +72,7 @@ JSON (JavaScript Object Notation) es un formato de intercambio de datos ligero y
 | Uso Común      | APIs web, transmisión de datos    | Archivos de configuración, datos en reposo|
 | Compatibilidad | Ampliamente compatible con lenguajes | Compatible, pero menos que JSON          |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+![Imagen de Shrek](https://hips.hearstapps.com/hmg-prod/images/shrek-64f9ceef56099.jpg)
 
 > [!NOTE]
 > Hola me llamo oscar y me gusta shreck.
